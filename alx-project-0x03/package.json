@@ -23,4 +23,9 @@
     "tailwindcss": "^4",
     "typescript": "^5"
   }
+
+    {
+    "dependencies": {
+      "react-icons": "^4.11.0", 
+  }
 }
