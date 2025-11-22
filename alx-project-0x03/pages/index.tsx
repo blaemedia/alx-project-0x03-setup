@@ -4,7 +4,7 @@ import  {PageRouteProps} from "@/interface"
 
 
 export default function Home() {
-  // ✅ Test requirement: this exact line must exist
+  
   const router = useRouter();
 
   // Imperative routing with useRouter
